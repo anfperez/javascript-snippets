@@ -8,5 +8,5 @@ let spaceBetween = (s) => {
 }
 
 spaceBetween("interview");
-spaceBetween("fiscalnote");
+spaceBetween("programming");
 spaceBetween("Star Wars");
