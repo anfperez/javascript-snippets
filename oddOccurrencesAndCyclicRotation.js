@@ -2,7 +2,7 @@
 
 //Odd Occurences in Array
 
-//given an array of odd integers, find the one element that does have a paired match
+//given an array of odd integers, find the one element that does not have a paired match
 
 let arr4 = [1, 2, 1, 2, 3];
 let arr5 = [ 4, 5, 6, 4, 5, 4, 5];
